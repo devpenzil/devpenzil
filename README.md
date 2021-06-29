@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Anin Arafath</h1>
-<h3 align="center">FULL satack web developer</h3>
+<h1 align="center">Hi 👋, I'm Ajo Alex</h1>
+<h3 align="center">Front End Developer</h3>
 	
 
-- 🌱 I’m currently learning **Typescript, Next js, Firebase, etc.**
+- 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/aninarafath6?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/ajoalex012)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Web**
 
-- 📫 How to reach me **aninarafath786313@.com**
+- 📫 How to reach me **ajoalex012@gmail.com**
 
 
 	
