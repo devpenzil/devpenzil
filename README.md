@@ -41,9 +41,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/aninarafath6">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aninarafath6&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aninarafath6&layout=compact&langs_count=8&theme=radical"/>
+<a href="https://github.com/ajoalex012">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajoalex012&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajoalex012&layout=compact&langs_count=8&theme=radical"/>
 
 </a>
 </p>
@@ -51,4 +51,4 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="mailto:aninarafath786313@gmail.com"><img src="https://img.shields.io/badge/-aninarafath786313@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ajoalex012@protonmail.com"><img src="https://img.shields.io/badge/-ajoalex012@protonmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
