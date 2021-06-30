@@ -1,46 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ajo Alex</h1>
-<h3 align="center">Front End Developer</h3>
-	
+<h3 align="center">A passionate frontend developer from Kerala</h3>
 
-- 🌱 I’m currently learning **React JS**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajoalex012&label=Profile%20views&color=0e75b6&style=flat" alt="ajoalex012" /> </p>
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/ajoalex012)
+- 🌱 I’m currently learning **React**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ajoalex012](https://github.com/ajoalex012)
 
 - 💬 Ask me about **Web**
 
 - 📫 How to reach me **ajoalex012@protonmail.com**
 
-
-	
-### 🛠 &nbsp;Languages and Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
-<br/>
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/-yarn-61DAFB?style=for-the-badge&logo=yarn)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-<br/>
+- 📄 Know about my experiences [https://ajoalex.netlify.app/](https://ajoalex.netlify.app/)
 
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajoalex012&show_icons=true&locale=en&layout=compact" alt="ajoalex012" /></p>
 
-<p align="center">
-<a href="https://github.com/ajoalex012">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajoalex012&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajoalex012&layout=compact&langs_count=8&theme=radical"/>
-
-</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p>
-<a href="mailto:ajoalex012@protonmail.com"><img src="https://img.shields.io/badge/-ajoalex012@protonmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajoalex012&show_icons=true&locale=en" alt="ajoalex012" /></p>
