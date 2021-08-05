@@ -20,6 +20,7 @@
 ### Misc
 ##### C++, Python, NPM, VS Code, Yarn
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajoalex012&show_icons=true&locale=en&layout=compact" alt="ajoalex012" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajoalex012&show_icons=true&locale=en" alt="ajoalex012" /></p>
 
