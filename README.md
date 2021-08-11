@@ -51,23 +51,17 @@ function whoAmI() {
 ```
 
 <div align="center">
-    <a href="https://muhammed-rahif.github.io/Netflix-Clone/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Netflix-Clone&theme=radical" />
+    <a href="https://npmf.netlify.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devpenzil&repo=npmf&theme=radical" />
     </a>
-    <a href="https://secure-memo.herokuapp.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Secure-Memo&theme=radical" />
+    <a href="https://progressum.in/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devpenzil&repo=Progressum&theme=radical" />
     </a>
-    <a href="https://thrifty-wheels.herokuapp.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Thrifty-Wheels&theme=radical" />
+    <a href="https://wheather-app-react.netlify.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devpenzil&repo=Wheather-App-with-React&theme=radical" />
     </a>
-    <a href="https://Muhammed-Rahif.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Muhammed-Rahif.github.io&theme=radical" />
-    </a>
-    <a href="https://crossroads-chat.herokuapp.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Crossroads-Subscribers-Hub&theme=radical" />
-    </a>
-    <a href="https://drive.google.com/file/d/1PAp08CJ-OgNCRJXsAaoqvJ0bZC0IFPLQ/view?usp=sharing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Notes&theme=radical" />
+    <a href="https://url-shortner-app-react.netlify.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devpenzil&repo=URL-Shortening-App&theme=radical" />
     </a>
 </div>
 
@@ -109,7 +103,7 @@ function whoAmI() {
 ```
 
 <div align="center">
-    <a href="https://github.com/Muhammed-Rahif">
+    <a href="https://github.com/devpenzil">
         <img src="https://activity-graph.herokuapp.com/graph?username=devpenzil" />
     </a>
 </div>
@@ -126,11 +120,12 @@ function whoAmI() {
 ```js
 function getInTouch() {
   const socialAccounts = {
-    Personal_website: "https://muhammed-rahif.github.io/",
-    Facebook: "https://www.facebook.com/muhammed.rahif.583/",
-    Instagram: "https://www.instagram.com/Muhammed_Rahif_/",
-    Github: "https://www.github.com/Muhammed-Rahif/",
-    Gmail: "rahifpalliyalil@gmail.com",
+    Personal_website: Not available now,
+    Dev: "https://dev.to/ajoalex",
+    Linkedin: "linkedin.com/in/ajoalex",
+    Instagram: "https://www.instagram.com/devpenzil",
+    Github: "https://www.github.com/devpenzil",
+    Mail: "ajoalex012@protonmail.com",
   };
 
   return socialAccounts;
