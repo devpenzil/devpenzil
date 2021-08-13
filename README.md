@@ -71,7 +71,26 @@ function whoAmI() {
     };
 
 ```
+<hr />
 
+```js
+
+    function myTopLanguages() {
+        return (
+
+```
+<div align="center">
+    <a href="https://github.com/devpenzil">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpenzil&show_icons=true&locale=en&layout=compact&theme=radical" alt="devpenzil" />
+    </a>
+</div>
+
+```
+        );
+    };
+
+```
+  
 <hr />
 
 ```js
