@@ -34,10 +34,11 @@
 <hr />
 
 
+
 <div align="center">
     <a href="https://github.com/devpenzil">
-        <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpenzil&show_icons=true&locale=en&layout=compact&theme=radical" alt="devpenzil" />
-    </a>
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpenzil&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 </div>
 <hr />
 
