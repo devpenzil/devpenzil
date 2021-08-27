@@ -34,10 +34,15 @@
 <hr />
 
 
+<div align="center">
+    
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devpenzil&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+<hr />
 <div align="center">
     <a href="https://github.com/devpenzil">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpenzil&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpenzil&hide=css&theme=radical "/>
 </a>
 </div>
 <hr />
