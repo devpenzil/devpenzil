@@ -34,11 +34,7 @@
 <hr />
 
 
-<div align="center">
-    
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devpenzil&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 <hr />
 <div align="center">
     <a href="https://github.com/devpenzil">
