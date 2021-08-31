@@ -34,10 +34,7 @@
 </div>
 <hr />
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<hr />
 <div align="center">
     <a href="https://github.com/devpenzil">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpenzil&hide=css&theme=radical "/>
@@ -53,6 +50,7 @@
     </a>
 </div>
 
+<hr />
 
 ![Visitor Count](https://profile-counter.glitch.me/devpenzil/count.svg)
 
