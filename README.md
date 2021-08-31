@@ -1,3 +1,4 @@
+
 <p align="center">
 <a href="https://app.daily.dev/devpenzil"><img src="https://api.daily.dev/devcards/dbce8ba551ac4454b58c03a39ff34f91.png?r=zub" width="200" alt="Ajo Alex's Dev Card"/></a>
 </p>
@@ -33,7 +34,8 @@
 </div>
 <hr />
 
-
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <hr />
 <div align="center">
@@ -50,3 +52,7 @@
         <img width="600" src="https://activity-graph.herokuapp.com/graph?username=devpenzil" />
     </a>
 </div>
+
+
+![Visitor Count](https://profile-counter.glitch.me/devpenzil/count.svg)
+
