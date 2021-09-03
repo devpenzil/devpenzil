@@ -52,5 +52,8 @@
 
 <hr />
 
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devpenzil&layout=compact&theme=radical)
+
+
 ![Visitor Count](https://profile-counter.glitch.me/devpenzil/count.svg)
 
