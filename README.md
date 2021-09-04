@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=devpenzil&style=flat-square&color=blueviolet)
 
 <p align="center">
 <a href="https://app.daily.dev/devpenzil"><img src="https://api.daily.dev/devcards/dbce8ba551ac4454b58c03a39ff34f91.png?r=zub" width="200" alt="Ajo Alex's Dev Card"/></a>
