@@ -38,7 +38,7 @@
 
 <div align="center">
     <a href="https://github.com/devpenzil">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpenzil&hide=css&theme=radical "/>
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpenzil&hide=css&theme=radical&layout=compact "/>
 </a>
 </div>
 <hr />
