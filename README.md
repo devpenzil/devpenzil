@@ -48,7 +48,7 @@
 
 <div align="center">
     <a href="https://github.com/devpenzil">
-        <img width="600" src="https://activity-graph.herokuapp.com/graph?username=devpenzil" />
+        <img src="https://activity-graph.herokuapp.com/graph?username=devpenzil" />
     </a>
 </div>
 
