@@ -1,9 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=devpenzil&style=flat-square&color=blueviolet)
 
-<p align="center">
-<a href="https://app.daily.dev/devpenzil"><img src="https://api.daily.dev/devcards/dbce8ba551ac4454b58c03a39ff34f91.png?r=zub" width="200" alt="Ajo Alex's Dev Card"/></a>
-</p>
-<hr />
+
 
 
 <div align="center">
@@ -42,14 +39,4 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpenzil&hide=css&theme=radical&layout=compact "/>
 </a>
 </div>
-<hr />
 
-
-
-<div align="center">
-    <a href="https://github.com/devpenzil">
-        <img src="https://activity-graph.herokuapp.com/graph?username=devpenzil" />
-    </a>
-</div>
-
-<hr />
