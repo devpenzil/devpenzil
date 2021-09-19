@@ -1,7 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=devpenzil&style=flat-square&color=blueviolet)
 
+# Hey Folks 👋
 
+I am Ajo Alex, a Front end developer from Kerala, India. I Like to work with front end technologies, Personally i am in love with React JS. I would like to contribute open source projects. I am always believe in my skills and always try to encourage my own. I store all my codebases in this account, and you can see it.
 
+- 💻 I’m currently working at Neoito, Trivandrum
+- 📖 I’m currently learning Redux saga
+- 👽 Ask me about ReactJs, Javascript 
+- 📱 How to reach me: @devpenzil on instagram
+- 👦 Pronouns: He/Him
+- 🤣 Fun fact: I have a super Power
 
 <div align="center">
 <p align="center"> 
