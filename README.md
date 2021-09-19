@@ -48,3 +48,5 @@ I am Ajo Alex, a Front end developer from Kerala, India. I Like to work with fro
 </a>
 </div>
 
+<a href="https://www.buymeacoffee.com/ajoalex" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
