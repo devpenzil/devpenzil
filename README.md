@@ -43,4 +43,7 @@ I am Ajo Alex, a Front end developer from Kerala, India. I Like to work with fro
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpenzil&theme=radical&layout=compact "/>
 </a>
 </div>
-
+<hr />
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devpenzil&show_icons=true&locale=en&layout=compact" alt="devpenzil" /></p>
+                                                                                                                                         </div>
