@@ -8,5 +8,9 @@
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devpenzil&layout=compact" alt="devpenzil" /></div>
 </details>
 
+<details><summary>Skills and Tools</summary><br/>
+
+</details>
+
 
                                                                                                                              
