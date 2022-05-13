@@ -3,4 +3,4 @@
 [![Ajo Alex](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I-BUILD-THINKS-ON-INTERNET&title=Devpenzil)](https://devpenzil.netlify.app)
 
                                                                                                                              
-<a href="https://www.buymeacoffee.com/devpenzil"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=devpenzil&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://buy.stripe.com/eVa8wzbtkd2S7JK4gi">Support Me</a>
