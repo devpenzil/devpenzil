@@ -7,6 +7,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [PiP in React Native for Android](https://devpenzil.medium.com/pip-in-react-native-for-android-36a4be3cb088?source=rss-7b9474e97347------2)
+- [RPA — A Brief Review](https://devpenzil.medium.com/rpa-a-brief-review-2af5ccaee313?source=rss-7b9474e97347------2)
+- [Host your Fastapi server on Heroku](https://devpenzil.medium.com/host-your-fastapi-server-on-heroku-d29916892c9a?source=rss-7b9474e97347------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
