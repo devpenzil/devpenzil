@@ -1,4 +1,4 @@
-# Hi, I'm Ajo — Front End Engineer
+# Hi, I'm Ajo — Mobile App Engineer
 I help founders and teams turn concepts into scalable digital solutions — fast, maintainable, and production-ready.
 
 ---
