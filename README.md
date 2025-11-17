@@ -16,3 +16,5 @@ If you want help building, automating, or improving a product, feel free to reac
 
 Connect me on  [Twitter/X](https://x.com/devpenzil),  [Linkedin](https://www.linkedin.com/in/devpenzil/)
 
+
+[![wakatime](https://wakatime.com/badge/user/83ef3aea-8a1e-4f0c-9dbe-e954f1a9fd6d.svg)](https://wakatime.com/@83ef3aea-8a1e-4f0c-9dbe-e954f1a9fd6d)
