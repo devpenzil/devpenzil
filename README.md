@@ -16,6 +16,7 @@ If you want help building, automating, or improving a product, feel free to reac
 
 Connect me on  [Twitter/X](https://x.com/devpenzil),  [Linkedin](https://www.linkedin.com/in/devpenzil/)
 
+---
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2044%20mins-blue)
