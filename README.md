@@ -3,12 +3,6 @@ I help founders and teams turn concepts into scalable digital solutions — fast
 
 ---
 
-## 🧰 Tech Stack
-
- [![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,css,tailwind,androidstudio,apple,nodejs,firebase)](https://skillicons.dev)
-
----
-
 ## 📫 Contact
 
 If you want help building, automating, or improving a product, feel free to reach out.  [Book a call](https://cal.com/ajoalex/discovery-call)
