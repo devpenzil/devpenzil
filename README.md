@@ -1,5 +1,5 @@
-# Hi, I'm Ajo — Front End Engineer
-I help founders and teams turn concepts into scalable digital solutions — fast, maintainable, and production-ready.
+# Hi, I'm Ajo — Software Engineer
+Software Engineer | Tech Consultant | Building Open-Source Tools to Solve Real-World Problems | AI Solutions Builder | Helping Founders Turn Ideas into Products
 
 ---
 
