@@ -1,4 +1,4 @@
-# Hi, I'm Ajo — Software Engineer
+# Hi, I'm Ajo
 Software Engineer | Tech Consultant | Building Open-Source Tools to Solve Real-World Problems | AI Solutions Builder | Helping Founders Turn Ideas into Products
 
 ---
@@ -13,4 +13,3 @@ Connect me on  [Twitter/X](https://x.com/devpenzil),  [Linkedin](https://www.lin
 ---
 ## What I Build
 - Pixel Paper Art [https://pixelpaperart.vercel.app](https://pixelpaperart.vercel.app)
-- Motorcycle Tourers Association Website [https://www.motorcycletourersassociation.org](https://www.motorcycletourersassociation.org)
