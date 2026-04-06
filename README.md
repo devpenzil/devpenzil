@@ -8,7 +8,7 @@ Software Engineer | Tech Consultant | Building Open-Source Tools to Solve Real-W
 If you want help building, automating, or improving a product, feel free to reach out.  [Book a call](https://cal.com/ajoalex/discovery-call)
 
 
-Connect me on  [Twitter/X](https://x.com/devpenzil),  [Linkedin](https://www.linkedin.com/in/devpenzil/)
+Connect me on  [Linkedin](https://www.linkedin.com/in/devpenzil/)
 
 ---
 ## What I Build
