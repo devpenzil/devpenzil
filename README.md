@@ -12,4 +12,5 @@ Connect me on  [Linkedin](https://www.linkedin.com/in/devpenzil/)
 
 ---
 ## What I Build
+- ISAAC - A Personal assistant [https://github.com/ajo-alex/ISAAC/blob/main/README.md](https://github.com/ajo-alex/ISAAC/blob/main/README.md)
 - Pixel Paper Art [https://pixelpaperart.vercel.app](https://pixelpaperart.vercel.app)
