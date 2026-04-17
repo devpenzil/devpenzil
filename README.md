@@ -12,5 +12,4 @@ Connect me on  [Linkedin](https://www.linkedin.com/in/devpenzil/)
 
 ---
 ## What I Build
-- ISAAC - A Personal assistant [https://github.com/isaac-ai-assistant](https://github.com/isaac-ai-assistant)
 - Pixel Paper Art [https://pixelpaperart.vercel.app](https://pixelpaperart.vercel.app)
