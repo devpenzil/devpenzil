@@ -1,15 +1,29 @@
-# Hi, I'm Ajo
-Software Engineer | Tech Consultant | Building Open-Source Tools to Solve Real-World Problems | AI Solutions Builder | Helping Founders Turn Ideas into Products
+# Hi, I’m Ajo 👋
+
+I’m a web developer and designer who strives to build high-quality web experiences through clean, maintainable code and thoughtful design. I’m currently working full-time as a Frontend Software Engineer.
 
 ---
 
-## 📫 Contact
+## 👨‍💻 Work In Progress
+Currently building - **[isaac]()**. A Personal AI Assistant works completely local 
 
-If you want help building, automating, or improving a product, feel free to reach out.  [Book a call](https://cal.com/ajoalex/discovery-call)
+## 🛠️ Tech Stack
 
-
-Connect me on  [Linkedin](https://www.linkedin.com/in/devpenzil/)
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js,React Native, Redux 
+- **Styling & Design:** CSS3, SASS (SCSS), Tailwind CSS, Figma 
+- **Backend & Tools:** Node.js, Express, Firebase, Supabase, MongoDB, Git  
+- **Testing & QA:** Jest
+- **Other:** WebGL, THREE.js, GSAP, Motion, Ogl
 
 ---
-## What I Build
-- Pixel Paper Art [https://pixelpaperart.vercel.app](https://pixelpaperart.vercel.app)
+
+## 🚀 Featured Projects
+
+---
+
+## 📫 Let’s Connect
+
+
+---
+
+> *See you around!*
