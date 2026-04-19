@@ -5,7 +5,7 @@ I’m a web developer and designer who strives to build high-quality web experie
 ---
 
 ## 👨‍💻 Work In Progress
-Currently building - **[isaac]()**. A Personal AI Assistant works completely local 
+Currently building - **[isaac - my personal assistant](https://github.com/ajo-alex/isaac.home)**
 
 ## 🛠️ Tech Stack
 
