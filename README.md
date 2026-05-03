@@ -1,7 +1,4 @@
 # Hi, I’m Ajo 👋
-
-I’m a web developer and designer who strives to build high-quality web experiences through clean, maintainable code and thoughtful design. I’m currently working full-time as a Frontend Software Engineer.
-
 ---
 
 ## 👨‍💻 Work In Progress
